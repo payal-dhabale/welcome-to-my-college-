@@ -1,4 +1,4 @@
 # welcome-to-my-college-
 make our first commit
 <br>
-my name is <h1> payal dhabale </h1>
+my name is <h5>payal dhabale</h5>
